@@ -1,2 +1,1 @@
-# Aprendendo usar Git
-## Aula 1
+#Aprendendo usar Git com Kaue Maia
