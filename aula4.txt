@@ -1,0 +1,77 @@
+    1  clear
+    2  git log
+    3  cd desktop/
+    4  cd curso_git
+    5  git log
+    6  git log --pretty=online
+    7  git log --pretty=oneline
+    8  git log --star
+    9  git log --start
+   10  git log --stat
+   11  git log -p 
+   12  git log -p -2
+   13  git log --stat -3
+   14  git log --pretty=oneline -3
+   15  git log --since=20
+   16  git log --since=20.minutes
+   17  git log --since=1.week
+   18  git status
+   19  touch teste
+   20  git add teste
+   21  git status
+   22  git commit -m "Commit de teste"
+   23  git log
+   24  git reset --soft HEAD~
+   25  git status
+   26  git log
+   27  git commit -m "commite de teste"
+   28  git log
+   29  git reset --hard
+   30  git reset --hard HEAD-
+   31  git log
+   32  git status
+   33  git log --pretty=oneline
+   34  git checkout HEAD--
+   35  git log checkout HEAD--
+   36  git checkout HEAD--
+   37  git log
+   38  ls
+   39  git checkout main
+   40  git checkout main
+   41  git checkout HEAD-
+   42  git log
+   43  git checkout HEAD-
+   44  git checkout HEAD~
+   45  git log
+   46  git checkout main
+   47  mkdir vscode
+   48  rm vscode
+   49  rd vscode
+   50  mkdir .vscode
+   51  cd .vscode
+   52  touch conf.txt
+   53  ls
+   54  cd..
+   55  cd.
+   56  cd curso_git/
+   57  cd curso_git
+   58  cd\
+   59  rm vscode
+   60  rm vscode/
+   61  cd curso_git/
+   62  cd curso_gitcd curso_git/
+   63  cd curso_gitcd curso_gitls
+   64  cd..
+   65  cd ..
+   66  echo ".vscode/" > .gitignore
+   67  git status
+   68  touch pessoal.conf
+   69  git status
+   70  echo "pessoal.conf" >> .gitignore
+   71  git status
+   72  git add .gitignore
+   73  git commite -m "adicionado arquivo .gitignore"
+   74  git commit -m "adicionado arquivo .gitignore"
+   75  git status
+   76  history >
+   77  history > aula4.txt
